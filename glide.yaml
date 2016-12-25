@@ -1,0 +1,4 @@
+package: github.com/mdouchement/waf
+import:
+- package: github.com/alexflint/gallium
+  version: c8b09b37f86c342ebd08dde1733047023ea4ec29

@@ -7,6 +7,7 @@ This project is based on the [Gallium](https://github.com/alexflint/gallium) pro
 ## Build application
 
 ```sh
+$ glide install
 $ go build -o waf *.go
 $ gallium-bundle waf
 ```
